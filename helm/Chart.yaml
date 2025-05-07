@@ -1,0 +1,5 @@
+apiVersion: v2
+name: librarypal-lending-books-service
+description: Helm chart for the lending books service of LibraryPal
+version: 0.1.0
+appVersion: "1.0.0"
